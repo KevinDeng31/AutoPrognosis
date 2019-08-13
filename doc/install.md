@@ -5,6 +5,10 @@ In addition to this it depends upon R packages
 which are only available for recent versions of R. Some algorithms
 require tensorflow, ideally with GPU acceleration.
 
+Clone the repository using command:
+```
+git clone https://github.com/ahmedmalaa/AutoPrognosis
+```
 
 ## Anaconda (Windows, Linux, ...)
 
